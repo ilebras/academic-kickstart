@@ -75,10 +75,12 @@ user_groups:
 #- Visitors
 ---
 
-Isabela Le Bras is a sea-going physical oceanographer at the Woods Hole Oceanographic Institution [(WHOI)](www.whoi.edu) studying the ocean's large-scale circulation. Her research is motivated by a desire to understand the ocean's role in the climate system. Specific areas of interest include:
+Isabela Le Bras is a sea-going physical oceanographer at the Woods Hole Oceanographic Institution (WHOI) studying the ocean's large-scale circulation. Her research is motivated by a desire to understand the ocean's role in the climate system. Specific areas of interest include:
 
 - The Atlantic Meridional Overturning Circulation (AMOC), an intricate system of currents that stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon on a global scale.
 
 - High-latitude ocean dynamics and the linkages between the Arctic and Atlantic oceans.
 
-Interested in [joining the group](/join)?
+[Download CV](https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf)
+
+[Learn more about joining Isabela's research group](/join)

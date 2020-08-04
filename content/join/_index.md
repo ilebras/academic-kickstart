@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-I am hoping to build a diverse and passionate group of researchers with strong backgrounds in physics or mathematics. Please don't hesitate to get in touch if you are interested in joining the research group!
+I am hoping to build a diverse group of researchers who are passionate about applying physics and mathematics to our understanding of the ocean. Please don't hesitate to get in touch if you are interested in joining the research group!
 
 Additional resources:
 
@@ -24,7 +24,7 @@ Additional resources:
 - There are several opportunities for undergraduate students at WHOI:
     - [Summer Student Fellowship ](https://www.whoi.edu/main/summer-student-fellowship)
     - [Partnership Education Program](https://www.woodsholediversity.org/pep/)
-    - [Semester at WHOI](https://www.whoi.edu/what-we-do/educate/undergraduate-programs/semester-at-whoi/).
+    - [Semester at WHOI](https://www.whoi.edu/what-we-do/educate/undergraduate-programs/semester-at-whoi/)
 
 
 {{< figure library="true" src="YAWH.png" title="" >}}
