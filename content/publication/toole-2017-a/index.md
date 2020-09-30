@@ -1,7 +1,7 @@
 ---
 title: "Moored observations of the Deep Western Boundary Current in the NWAtlantic: 2004-2014"
 date: 2017-09-01
-publishDate: 2020-08-04T22:12:18.347731Z
+publishDate: 2020-09-30T14:50:46.401084Z
 authors: ["John M. Toole", "Magdalena Andres", "Isabela A. Le Bras", "Terrence M. Joyce", "Michael S. McCartney"]
 publication_types: ["2"]
 abstract: ""
