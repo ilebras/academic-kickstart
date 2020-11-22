@@ -1,7 +1,7 @@
 ---
 title: "Tracking Labrador Sea Water property signals along the Deep Western Boundary Current"
 date: 2017-01-01
-publishDate: 2020-11-22T15:29:50.434623Z
+publishDate: 2020-11-22T15:37:13.919097Z
 authors: ["Isabela Astiz Le Bras", "Igor Yashayaev", "John M. Toole"]
 publication_types: ["2"]
 abstract: ""
