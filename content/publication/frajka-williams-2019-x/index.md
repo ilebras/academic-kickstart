@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Meridional Overturning Circulation: Observed Transport and Variability"
 date: 2019-01-01
-publishDate: 2020-09-30T14:50:46.399157Z
+publishDate: 2020-11-22T15:29:50.434438Z
 authors: ["Eleanor Frajka-Williams", " ...", "Isabela A. Le Bras", " ..."]
 publication_types: ["2"]
 abstract: ""

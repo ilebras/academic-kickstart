@@ -1,7 +1,7 @@
 ---
 title: "The Interaction of Recirculation Gyres and a Deep Boundary Current"
 date: 2018-01-01
-publishDate: 2020-09-30T14:50:46.390887Z
+publishDate: 2020-11-22T15:29:50.435936Z
 authors: ["Isabela Astiz Le Bras", "Steven R. Jayne", "John M. Toole"]
 publication_types: ["2"]
 abstract: ""
