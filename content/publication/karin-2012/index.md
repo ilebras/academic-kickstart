@@ -1,7 +1,7 @@
 ---
 title: "Transport of charged particles by adjusting rf voltage amplitudes"
 date: 2012-01-01
-publishDate: 2020-11-22T15:47:21.074284Z
+publishDate: 2021-03-11T21:27:02.994366Z
 authors: ["Isabela Astiz Le Bras", "T. Karin", "A. Kehlberger", "K. Singer", "N. Daniilidis", "H. Häffner"]
 publication_types: ["2"]
 abstract: ""
