@@ -1,7 +1,7 @@
 ---
 title: "Seasonality of Freshwater in the East Greenland Current System From 2014 to 2016"
 date: 2018-12-01
-publishDate: 2021-03-11T21:27:02.997846Z
+publishDate: 2021-07-13T15:36:35.045221Z
 authors: ["Isabela Astiz Le Bras", "Fiamma Straneo", "James Holte", "N Penny Holliday"]
 publication_types: ["2"]
 abstract: ""
