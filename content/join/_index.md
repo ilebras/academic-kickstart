@@ -13,9 +13,9 @@ header:
   image: ""
 ---
 
-I am hoping to build a diverse group of researchers who are passionate about applying physics and mathematics to our understanding of the ocean. Please don't hesitate to get in touch if you are interested in joining the research group!
+I am hoping to build a diverse group of researchers who are passionate about applying physics and mathematics to our understanding of the ocean. Feel free to get in touch if you are interested in joining the research group and/or learning more about our work!
 
-Additional resources:
+Resources:
 
 - WHOI has an excellent [Postdoctoral Scholar Program](https://www.whoi.edu/page.do?pid=8021).
 
