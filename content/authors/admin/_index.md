@@ -52,9 +52,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=nV4nPOcAAAAJ
 
-#- icon: cv
-#  icon_pack: ai
-#  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
 
 #- icon: github
 #  icon_pack: fab
@@ -75,7 +75,7 @@ user_groups:
 #- Visitors
 ---
 
-Our lab is focused on observing ocean circulation and understanding its underlying physics. Ultimately, we seek to understand the role of ocean circulation in the climate system. We are focused primarily on collecting and analyzing in situ observations, but will use whichever tool is best suited to answering our scientific questions! Specific areas of interest include:
+Our lab is focused on observing ocean circulation and understanding its underlying physics. Ultimately, we seek to quantify the role of ocean circulation in the climate system. Specific areas of interest include:
 
 - The Atlantic Meridional Overturning Circulation (AMOC), an intricate system of currents that stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon on a global scale.
 
