@@ -1,12 +1,16 @@
 ---
-title: "The Interaction of Recirculation Gyres and a Deep Boundary Current"
-date: 2018-01-01
-publishDate: 2021-07-13T15:36:35.046645Z
-authors: ["Isabela Astiz Le Bras", "Steven R. Jayne", "John M. Toole"]
-publication_types: ["2"]
-abstract: ""
+title: The Interaction of Recirculation Gyres and a Deep Boundary Current
+date: '2018-01-01'
+publishDate: '2022-08-09T19:18:42.540120Z'
+authors:
+- Isabela Astiz Le Bras
+- Steven R. Jayne
+- John M. Toole
+publication_types:
+- '2'
+abstract: ''
 featured: false
-publication: "*Journal of Physical Oceanography*"
-doi: "10.1175/JPO-D-17-0206.1"
+publication: '*Journal of Physical Oceanography*'
+doi: 10.1175/JPO-D-17-0206.1
 ---
 

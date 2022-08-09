@@ -15,9 +15,7 @@ header:
 ---
 
 I am hoping to build a diverse group of researchers who are passionate about applying physics and 
-mathematics to our understanding of the ocean.
-
-**Unfortunately, I am not currently accepting MIT-WHOI Joint program graduate students. Please see for this year's opportunities [here](https://mit.whoi.edu/admissions/research-opportunities/) - I encourage you to reach out to my colleagues at WHOI!**
+mathematics to our understanding of the ocean. **Unfortunately, I am not currently accepting MIT-WHOI Joint program graduate students. Please see for this year's opportunities [here](https://mit.whoi.edu/admissions/research-opportunities/) - I encourage you to reach out to my colleagues at WHOI!**
 
 Additional resources:
 

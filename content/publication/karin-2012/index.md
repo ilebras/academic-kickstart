@@ -1,13 +1,23 @@
 ---
-title: "Transport of charged particles by adjusting rf voltage amplitudes"
-date: 2012-01-01
-publishDate: 2021-07-13T15:36:35.046911Z
-authors: ["Isabela Astiz Le Bras", "T. Karin", "A. Kehlberger", "K. Singer", "N. Daniilidis", "H. Häffner"]
-publication_types: ["2"]
-abstract: ""
+title: Transport of charged particles by adjusting rf voltage amplitudes
+date: '2012-01-01'
+publishDate: '2022-08-09T19:18:51.676895Z'
+authors:
+- Isabela Astiz Le Bras
+- T. Karin
+- A. Kehlberger
+- K. Singer
+- N. Daniilidis
+- H. Häffner
+publication_types:
+- '2'
+abstract: ''
 featured: false
-publication: "*Applied Physics B*"
-url_pdf: "http://link.springer.com/10.1007/s00340-011-4738-2"
-doi: "10.1007/s00340-011-4738-2"
+publication: '*Applied Physics B*'
+url_pdf: http://link.springer.com/10.1007/s00340-011-4738-2
+doi: 10.1007/s00340-011-4738-2
+links:
+- name: URL
+  url: http://link.springer.com/10.1007/s00340-011-4738-2
 ---
 

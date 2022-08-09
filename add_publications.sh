@@ -1,3 +1,1 @@
-
-academic import --overwrite --bibtex /home/isabela/Documents/latex/bibtex/pubs_forwebsite.bib
-echo "make sure you are in atomenv conda environment"
+academic import --overwrite --bibtex /Users/ilebras/Google\ Drive/My\ Drive/latex/bibtex/pubs_forwebsite.bib

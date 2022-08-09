@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Isabela Le Bras
+title: Observing ocean circulation
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Scientist<br />Physical Oceanography Department
+role: Physical Oceanography Department
 
 # Organizations/Affiliations
 organizations:
@@ -25,14 +25,14 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Physical Oceanography
-    institution: MIT-WHOI Joint Program
-    year: 2017
-  - course: BA in Physics
-    institution: University of California Berkeley
-    year: 2010
+#education:
+#  courses:
+#  - course: PhD in Physical Oceanography
+#    institution: MIT-WHOI Joint Program
+#    year: 2017
+#  - course: BA in Physics
+#    institution: University of California Berkeley
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,9 +52,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=nV4nPOcAAAAJ
 
-- icon: cv
-  icon_pack: ai
-  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
 
 #- icon: github
 #  icon_pack: fab
@@ -71,16 +71,16 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- N/A
 #- Visitors
 ---
 
-Isabela Le Bras is a sea-going physical oceanographer at the Woods Hole Oceanographic Institution (WHOI) studying the ocean's large-scale circulation. Her research is motivated by a desire to understand the ocean's role in the climate system. Specific areas of interest include:
+Our lab is focused on observing ocean circulation and understanding its underlying physics. Ultimately, we seek to understand the role of ocean circulation in the climate system. We are focused primarily on collecting and analyzing in situ observations, but will use whichever tool is best suited to answering our scientific questions! Specific areas of interest include:
 
 - The Atlantic Meridional Overturning Circulation (AMOC), an intricate system of currents that stabilizes the earth’s climate by redistributing heat, salt, oxygen, and carbon on a global scale.
 
 - High-latitude ocean dynamics and the linkages between the Arctic and Atlantic oceans.
 
-[Download CV](https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf)
+More details about current research projects can be found [here](/#research)
 
-[Learn more about joining Isabela's research group](/join)
+[Learn more about joining the Le Bras lab](/join)
