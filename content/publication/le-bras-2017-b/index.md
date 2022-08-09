@@ -2,7 +2,7 @@
 title: Tracking Labrador Sea Water property signals along the Deep Western Boundary
   Current
 date: '2017-01-01'
-publishDate: '2022-08-09T19:18:47.775325Z'
+publishDate: '2022-08-09T23:33:43.187789Z'
 authors:
 - Isabela Astiz Le Bras
 - Igor Yashayaev

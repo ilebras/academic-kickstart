@@ -2,7 +2,7 @@
 title: Observation-based estimates of heat and freshwater exchanges from the subtropical
   North Atlantic to the Arctic
 date: '2021-07-01'
-publishDate: '2022-08-09T19:18:50.508585Z'
+publishDate: '2022-08-09T23:33:45.970625Z'
 authors:
 - Feili Li
 - M. Susan Lozier

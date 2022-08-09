@@ -1,18 +1,21 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Arrival of New Great Salinity Anomaly Weakens Convection in the Irminger Sea
+title: Linking Oxygen and Carbon Uptake with the Meridional Overturning Circulation
+  Using a Transport Mooring Array
 subtitle: ''
 summary: ''
 authors:
-- T. C. Biló
-- F. Straneo
-- J. Holte
-- I. A‐A. Le Bras
+- Dariia Atamanchuk
+- Jaime Palter
+- Hilary Palevsky
+- Isabela Le Bras
+- Jannes Koelling
+- David Nicholson
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-08-09T15:18:51-04:00
+date: '2021-01-01'
+lastmod: 2022-08-09T19:33:47-04:00
 featured: false
 draft: false
 
@@ -30,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-08-09T23:33:46.454367Z'
+publishDate: '2022-08-09T23:33:47.363301Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Geophysical Research Letters*'
-doi: 10.1029/2022gl098857
+publication: '*Oceanography*'
+doi: 10.5670/oceanog.2021.supplement.02-03
 ---

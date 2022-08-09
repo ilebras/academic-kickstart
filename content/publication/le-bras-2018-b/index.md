@@ -2,7 +2,7 @@
 title: Seasonality of Freshwater in the East Greenland Current System From 2014 to
   2016
 date: '2018-12-01'
-publishDate: '2022-08-09T19:18:44.141861Z'
+publishDate: '2022-08-09T23:33:39.472750Z'
 authors:
 - Isabela Le Bras
 - Fiamma Straneo
