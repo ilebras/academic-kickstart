@@ -1,7 +1,7 @@
 ---
 title: The Interaction of Recirculation Gyres and a Deep Boundary Current
 date: '2018-01-01'
-publishDate: '2022-08-09T23:33:38.186462Z'
+publishDate: '2022-08-10T17:21:46.719489Z'
 authors:
 - Isabela Astiz Le Bras
 - Steven R. Jayne

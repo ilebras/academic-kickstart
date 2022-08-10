@@ -2,7 +2,7 @@
 title: Mean Conditions and Seasonality of the West Greenland Boundary Current System
   near Cape Farewell
 date: '2020-10-01'
-publishDate: '2022-08-09T23:33:45.454704Z'
+publishDate: '2022-08-10T17:21:54.047081Z'
 authors:
 - Astrid Pacini
 - Robert S. Pickart
