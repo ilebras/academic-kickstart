@@ -44,9 +44,9 @@ social:
   icon_pack: fas
   link: 'hnagao@mit.edu'  # For a direct email link, use "mailto:test@example.org".
 
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/oceanslebrasi
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nagaoh_oceans
 
 #- icon: google-scholar
 #  icon_pack: ai
