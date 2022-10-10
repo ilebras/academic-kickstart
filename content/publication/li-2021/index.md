@@ -2,7 +2,7 @@
 title: Subpolar North Atlantic western boundary density anomalies and the Meridional
   Overturning Circulation
 date: '2021-05-01'
-publishDate: '2022-08-10T17:21:47.321836Z'
+publishDate: '2022-10-10T14:52:11.427396Z'
 authors:
 - F. Li
 - M. S. Lozier

@@ -2,7 +2,7 @@
 title: Rapid Export of Waters Formed by Convection Near the Irminger Sea's Western
   Boundary
 date: '2020-02-01'
-publishDate: '2022-08-10T17:21:52.231216Z'
+publishDate: '2022-10-10T14:52:12.868296Z'
 authors:
 - Isabela Le Bras
 - Fiamma Straneo

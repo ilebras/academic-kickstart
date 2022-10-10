@@ -1,7 +1,7 @@
 ---
 title: 'Atlantic Meridional Overturning Circulation: Observed Transport and Variability'
 date: '2019-06-01'
-publishDate: '2022-08-10T17:21:50.794026Z'
+publishDate: '2022-10-10T14:52:20.859523Z'
 authors:
 - E. Frajka-Williams
 - I. J. Ansorge
