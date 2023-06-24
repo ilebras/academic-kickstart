@@ -1,7 +1,7 @@
 ---
-title: A sea change in our view of overturning in the subpolar North Atlantic.
-date: '2019-02-01'
-publishDate: '2023-06-24T16:14:34.138186Z'
+title: A Sea Change in Our View of Overturning in the Subpolar North Atlantic.
+date: '2019-01-01'
+publishDate: '2023-06-24T16:40:35.228370Z'
 authors:
 - M. S. Lozier
 - F. Li

@@ -1,7 +1,7 @@
 ---
-title: Transport of charged particles by adjusting rf voltage amplitudes
+title: Transport of Charged Particles by Adjusting Rf Voltage Amplitudes
 date: '2012-01-01'
-publishDate: '2023-06-24T16:14:36.047390Z'
+publishDate: '2023-06-24T16:40:31.021466Z'
 authors:
 - Isabela Astiz Le Bras
 - T. Karin

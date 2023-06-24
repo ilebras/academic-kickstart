@@ -1,18 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Arrival of New Great Salinity Anomaly Weakens Convection in the Irminger Sea
+title: Labrador Sea Water Spreading and the Atlantic Meridional Overturning Circulation
 subtitle: ''
 summary: ''
 authors:
-- T. C. Biló
-- F. Straneo
-- J. Holte
-- I. A‐A. Le Bras
+- Isabela A.-A. Le Bras
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-08-09T15:18:51-04:00
+date: '2023-01-01'
+lastmod: 2023-06-24T12:23:41-04:00
 featured: false
 draft: false
 
@@ -30,10 +27,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-24T16:18:49.112051Z'
+publishDate: '2023-06-24T16:40:34.741349Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Geophysical Research Letters*'
-doi: 10.1029/2022gl098857
+publication: '*Philosophical Transactions of the Royal Society A: Mathematical, Physical
+  and Engineering Sciences*'
+doi: 10.1098/rsta.2022.0189
 ---

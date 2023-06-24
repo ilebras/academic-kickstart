@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-24T16:14:43.972256Z'
+publishDate: '2023-06-24T16:19:03.961583Z'
 publication_types:
 - '2'
 abstract: To ground truth the large-scale dynamical balance of the North Atlantic

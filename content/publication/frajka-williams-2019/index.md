@@ -1,7 +1,7 @@
 ---
 title: 'Atlantic Meridional Overturning Circulation: Observed Transport and Variability'
-date: '2019-06-01'
-publishDate: '2023-06-24T16:14:44.705594Z'
+date: '2019-01-01'
+publishDate: '2023-06-24T16:40:30.199884Z'
 authors:
 - E. Frajka-Williams
 - I. J. Ansorge
@@ -73,8 +73,8 @@ tags:
 - Carbon Storage
 - Meridional overturning circulation (MOC)
 - Observing System Simulation Experiment (OSSE)
-- Thermohaline circulation (THC)
 - ocean heat content (OHC)
+- Thermohaline circulation (THC)
 url_pdf: https://www.frontiersin.org/article/10.3389/fmars.2019.00260/full
 doi: 10.3389/fmars.2019.00260
 links:
