@@ -1,7 +1,7 @@
 ---
 title: Dynamics of North Atlantic Western Boundary Currents
 date: '2017-01-01'
-publishDate: '2022-10-10T14:52:09.298431Z'
+publishDate: '2023-06-24T16:14:34.622763Z'
 authors:
 - Isabela Astiz Le Bras
 publication_types:

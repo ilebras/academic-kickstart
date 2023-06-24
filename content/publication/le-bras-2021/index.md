@@ -1,7 +1,7 @@
 ---
 title: How much Arctic fresh water participates in the subpolar overturning circulation?
 date: '2021-01-01'
-publishDate: '2022-10-10T14:52:17.991262Z'
+publishDate: '2023-06-24T16:14:41.567247Z'
 authors:
 - Isabela Le Bras
 - Fiamma Straneo

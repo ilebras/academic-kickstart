@@ -2,7 +2,7 @@
 title: Transport variability of the Irminger Sea Deep Western Boundary Current from
   a mooring array
 date: '2019-05-01'
-publishDate: '2022-10-10T14:52:17.309593Z'
+publishDate: '2023-06-24T16:14:40.846990Z'
 authors:
 - J.E. Hopkins
 - N.P. Holliday
