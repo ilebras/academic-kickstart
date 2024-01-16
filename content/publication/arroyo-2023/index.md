@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-24T16:40:27.802044Z'
+publishDate: '2023-07-10T18:39:34.766649Z'
 publication_types:
 - '2'
 abstract: The Arctic Ocean's Canada Basin (CB) has seen significant changes in ocean

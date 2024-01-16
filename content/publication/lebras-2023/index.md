@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-24T16:40:34.305068Z'
+publishDate: '2023-07-10T18:39:41.942047Z'
 publication_types:
 - '2'
 abstract: From 2004 to 2014, the Line W moorings measured a 0.7 Sv yr-1 slowing of

@@ -2,7 +2,7 @@
 title: 'Moored Observations of the Deep Western Boundary Current in the NWAtlantic:
   2004-2014'
 date: '2017-01-01'
-publishDate: '2023-06-24T16:40:36.188306Z'
+publishDate: '2023-07-10T18:39:44.034322Z'
 authors:
 - John M. Toole
 - Magdalena Andres

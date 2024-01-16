@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-06-24T16:40:29.572881Z'
+publishDate: '2023-07-10T18:39:36.116440Z'
 publication_types:
 - '2'
 abstract: The overturning streamfunction as measured at the OSNAP (Overturning in
