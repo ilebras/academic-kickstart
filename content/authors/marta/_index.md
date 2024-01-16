@@ -30,9 +30,9 @@ education:
 #  - course: PhD in Physical Oceanography
 #    institution: MIT-WHOI Joint Program
 #   year: 2017
-- course: B.A. Mathematics and Music
-institution: Cornell University
-year: 2020
+  - course: B.A. Mathematics and Music
+    institution: Cornell University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,6 +43,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mfaulkner@whoi.edu'  # For a direct email link, use "mailto:test@example.org".
+
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mmfaulkner
 
 #- icon: twitter
 # icon_pack: fab
@@ -56,10 +60,6 @@ social:
 #  icon_pack: ai
  # link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mmfaulkner
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
