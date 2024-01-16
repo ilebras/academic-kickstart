@@ -31,8 +31,8 @@ education:
 #    institution: MIT-WHOI Joint Program
 #   year: 2017
 - course: B.A. Mathematics and Music
-  institution: Cornell University
-  year: 2020
+institution: Cornell University
+year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
