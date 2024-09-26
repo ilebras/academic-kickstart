@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+role: WHOI Postdoc
 
 # Organizations/Affiliations
 organizations:
