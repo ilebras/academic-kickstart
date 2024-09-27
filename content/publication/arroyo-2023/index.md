@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-10T18:39:34.766649Z'
+publishDate: '2024-09-27T16:48:18.983138Z'
 publication_types:
 - '2'
 abstract: The Arctic Ocean's Canada Basin (CB) has seen significant changes in ocean
@@ -42,7 +42,7 @@ abstract: The Arctic Ocean's Canada Basin (CB) has seen significant changes in o
   and biology, pathways, and evolution. O2 observations are analyzed between 2003
   and 2021 from the Joint Ocean Ice Study/Beaufort Gyre Observing System (JOIS/BGOS)
   field program, which samples CB hydrographic and biogeochemical properties. In the
-  central CB, warming of the PSW layer over 2003– 2021 has been accompanied by O2
+  central CB, warming of the PSW layer over 2003--2021 has been accompanied by O2
   decreases over this time in the layer. Nutrients and other biogeochemical properties
   are analyzed to quantify the combined influences of both physical changes and biological
   changes on the evolution of O2 concentrations in the CB PSW. In the upper portion

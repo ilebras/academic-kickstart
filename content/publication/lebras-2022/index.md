@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-10T18:39:41.206141Z'
+publishDate: '2024-09-27T16:48:21.653793Z'
 publication_types:
 - '2'
 abstract: The subpolar North Atlantic is a site of significant carbon dioxide, oxygen,
@@ -43,7 +43,7 @@ abstract: The subpolar North Atlantic is a site of significant carbon dioxide, o
   mixed layer are affected directly by atmospheric forcing in this region. When northerly
   winds blow along the Irminger Sea's western boundary current, the Ekman response
   pushes denser water over lighter water, potentially triggering slantwise convection.
-  We estimate that this down-front wind forcing is four times stronger than air– sea
+  We estimate that this down-front wind forcing is four times stronger than air--sea
   heat flux buoyancy forcing and can mix waters to several times the conventionally
   defined mixed layer depth. Slantwise convection is not included in most large-scale
   ocean models, which likely limits their ability to accurately represent subpolar

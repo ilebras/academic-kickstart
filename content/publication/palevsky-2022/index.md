@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-10T18:39:43.570577Z'
+publishDate: '2024-09-27T16:48:22.102242Z'
 publication_types:
 - '4'
 abstract: The OOI Biogeochemical Sensor Data Best Practices and User Guide is intended

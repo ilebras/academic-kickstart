@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Mixing and Air– Sea Buoyancy Fluxes Set the Time-Mean Overturning Circulation
+title: Mixing and Air--Sea Buoyancy Fluxes Set the Time-Mean Overturning Circulation
   in the Subpolar North Atlantic and Nordic Seas
 subtitle: ''
 summary: ''
@@ -31,25 +31,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-10T18:39:36.116440Z'
+publishDate: '2024-09-27T16:48:20.140918Z'
 publication_types:
 - '2'
 abstract: The overturning streamfunction as measured at the OSNAP (Overturning in
   the Subpolar North Atlantic Program) mooring array represents the transformation
   of warm, salty Atlantic Water into cold, fresh North Atlantic Deep Water (NADW).
   The magnitude of the overturning at the OSNAP array can therefore be linked to the
-  transformation by air– sea buoyancy fluxes and mixing in the region north of the
+  transformation by air--sea buoyancy fluxes and mixing in the region north of the
   OSNAP array. Here, we estimate these water mass transformations using observational-based,
-  reanalysis-based and model-based datasets. Our results highlight that air– sea fluxes
+  reanalysis-based and model-based datasets. Our results highlight that air--sea fluxes
   alone cannot account for the time-mean magnitude of the overturning at OSNAP, and
   therefore a residual mixing-driven transformation is required to explain the difference.
-  A cooling by air– sea heat fluxes and a mixing-driven freshening in the Nordic Seas,
+  A cooling by air--sea heat fluxes and a mixing-driven freshening in the Nordic Seas,
   Iceland Basin and Irminger Sea precondition the warm, salty Atlantic Water, forming
   subpolar mode water classes in the subpolar North Atlantic. Mixing in the interior
-  of the Nordic Seas, over the Greenland– Scotland Ridge and along the boundaries
+  of the Nordic Seas, over the Greenland--Scotland Ridge and along the boundaries
   of the Irminger Sea and Iceland Basin drive a water mass transformation that leads
-  to the convergence of volume in the water mass classes associated with NADW. Air–
-  sea buoyancy fluxes and mixing therefore play key and complementary roles in setting
+  to the convergence of volume in the water mass classes associated with NADW. Air--sea
+  buoyancy fluxes and mixing therefore play key and complementary roles in setting
   the magnitude of the overturning within the subpolar North Atlantic and Nordic Seas.
   This study highlights that, for ocean and climate models to realistically simulate
   the overturning circulation in the North Atlantic, the small-scale processes that
