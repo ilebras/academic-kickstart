@@ -44,9 +44,9 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/oceanslebrasi
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/oceanslebrasi
 
 - icon: google-scholar
   icon_pack: ai
@@ -54,7 +54,7 @@ social:
 
 - icon: cv
   icon_pack: ai
-  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras.pdf
+  link: https://github.com/ilebras/LeBras_CV/blob/master/CV_ilebras_annotated.pdf
 
 #- icon: github
 #  icon_pack: fab
