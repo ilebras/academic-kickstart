@@ -74,10 +74,6 @@ email: ""
 user_groups:
 #- Postdocs
 #- Graduate Students
-- Undergraduate students
+- Undergraduates
 #- Visitors
 ---
-#Leo Middleton is a Postdoctoral Investigator at WHOI, working with Dr. Tom Farrar and Dr. Isabela Le Bras. His PhD was joint between the British Antarctic Survey and the University of Cambridge, 
-#studying the impact of small-scale turbulent mixing on the melting of Antarctic Ice Shelves. His current 
-#research concerns the impacts of small-scale turbulent mixing and stirring on the Polar Oceans, using novel ocean observing techniques. 
-#He is interested in ocean turbulence, submesoscale dynamics and ice-ocean interactions. Publications are [here.](https://scholar.google.com/citations?user=MUkroM4AAAAJ&hl=en&oi=sra)

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Scientist<br />Physical Oceanography Department
+role: Assistant Scientist II <br />Physical Oceanography Department
 
 # Organizations/Affiliations
 organizations:
@@ -44,9 +44,9 @@ social:
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/oceanslebrasi
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/oceanslebrasi
 
 - icon: google-scholar
   icon_pack: ai
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ilebras@whoi.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
