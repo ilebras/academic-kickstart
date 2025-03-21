@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: WHOI Guest Student
+role: Current WHOI Guest Student<br />SSF fellow summer 2024
 
 # Organizations/Affiliations
 organizations:

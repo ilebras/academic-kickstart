@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: WHOI undergraduate SSF fellow<br />Summer 2024
+role: WHOI undergraduate SSF fellow<br />Summer 2024<br />co-advised by Mike Spall, WHOI
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
