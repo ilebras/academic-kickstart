@@ -81,6 +81,6 @@ Our lab is focused on observing ocean circulation and understanding its underlyi
 
 - High-latitude ocean dynamics and the linkages between the Arctic and Atlantic oceans.
 
-More details about current research projects can be found below
+More details about current research projects can be found below and our publications can be found on [google scholar.](https://scholar.google.com/citations?user=nV4nPOcAAAAJ&hl=en)
 
 [Learn more about joining the Le Bras lab](/join)

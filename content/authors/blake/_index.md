@@ -74,6 +74,6 @@ email: ""
 user_groups:
 #- Postdocs
 #- Graduate Students
-- Undergraduates
+- Alumni
 #- Visitors
 ---
