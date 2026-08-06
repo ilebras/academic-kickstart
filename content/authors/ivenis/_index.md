@@ -25,14 +25,12 @@ organizations:
 #- Computational Linguistics
 #- Information Retrieval
 
-education:
-  courses:
+#education:
+#  courses:
 #  - course: PhD in Physical Oceanography
 #    institution: MIT-WHOI Joint Program
 #   year: 2017
-  - course: B.A. Mathematics and Music
-    institution: Cornell University
-    year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Postdocs
 #- Visitors
 ---
-Marta Faulkner is a PhD student in the MIT-WHOI Joint Program studying physical oceanography with Dr. Michael Spall and Dr. Isabela Le Bras. Her research focuses on large-scale Arctic Ocean physical oceanography, particularly the dynamics of the Beaufort Gyre in the Arctic’s Canadian Basin. She also has interests in sea ice, glacier-ocean interactions, and Antarctic physical oceanography. Personal website: https://mmfaulkner.github.io/.
+Ivenis Pita
