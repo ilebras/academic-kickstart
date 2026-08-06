@@ -53,8 +53,8 @@ social:
 # link: https://twitter.com/nagaoh_oceans
 
 - icon: google-scholar
-icon_pack: ai
-link: https://scholar.google.com/citations?user=HHpH-NsAAAAJ&hl=en&oi=ao
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=HHpH-NsAAAAJ&hl=en&oi=ao
 
 - icon: cv
 icon_pack: ai
